@@ -35,7 +35,10 @@ Prints do ambiente estão presentes em:
 
 
 🚀 Passo a Passo Completo
+
+
 1️⃣ Criação das Wordlists
+
 echo -e "user\nmsfadmin\nadmin\root" > users.txt
 
 Criado manualmente com usuários comuns do Metasploitable
